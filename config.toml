@@ -1,0 +1,31 @@
+baseURL = "https://ericjhernandezj.com/"
+languageCode = "es"
+defaultContentLanguage = "es"
+
+theme = 'lynx'
+
+title = "Eric Joel Hernandez Javier (ericjhernandezj)"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+enableEmoji = true
+disableKinds = ["taxonomy", "term"]
+
+[author]
+  name = "Eric Joel Hernandez Javier"
+  headline = "Panem volo"
+  # image = "img/author.jpg"
+
+  links = [
+    {link = {href = "https://blog.ericjhernandezj.com", text = "Blog"}},
+    {twitter = {href = "https://x.com/ericjhernandezj", text = "X (Twitter)"}},
+    {instagram = {href = "https://instagram.com/ericjhernandezj", text = "Instagram"}},
+    {instagram = {href = "https://threads.net/@ericjhernandezj", text = "Threads"}},
+    {whatsapp = {href = "https://whatsapp.com/channel/0029Va4FCGIAYlUISIXQOU3F", text = "WhatsApp Channel"}},
+    {telegram = {href = "https://t.me/ericjhernandezj", text = "Telegram Channel"}},
+    {github = {href = "https://github.com/ericjhernandezj", text = "GitHub"}}
+  ]
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.86.1"
