@@ -20,7 +20,6 @@ disableKinds = ["taxonomy", "term"]
     {twitter = {href = "https://x.com/ericjhernandezj", text = "X (Twitter)"}},
     {instagram = {href = "https://instagram.com/ericjhernandezj", text = "Instagram"}},
     {instagram = {href = "https://threads.net/@ericjhernandezj", text = "Threads"}},
-    {whatsapp = {href = "https://whatsapp.com/channel/0029Va4FCGIAYlUISIXQOU3F", text = "WhatsApp Channel"}},
     {telegram = {href = "https://t.me/ericjhernandezj", text = "Telegram Channel"}},
     {github = {href = "https://github.com/ericjhernandezj", text = "GitHub"}}
   ]
