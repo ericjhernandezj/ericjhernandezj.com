@@ -1,0 +1,82 @@
+baseURL = 'https://ericjhernandezj.com/'
+languageCode = 'es-mx'
+title = 'Eric J. Hernandez J.'
+theme = 'typo'
+
+[taxonomies]
+tag = 'tags'
+
+# Google analytics code
+#googleAnalytics = "G-xxxxxxxxx"
+
+[params]
+# Meta description
+description = "Tech Blog - @ericjhernandezj"
+
+# Appearance settings
+theme = 'auto'
+colorPalette = 'default'
+hideHeader = false
+
+# Intro on main page, content is markdown
+homeIntroTitle = 'Hola'
+homeIntroContent = """
+Soy estudiante de Ingeniería en Redes en la Universidad Autónoma del Estado de Quintana Roo, Campus Cancún.
+
+De forma independiente, me especializo en desarrollo back-end utilizando Java y Spring Boot.
+
+Me gusta compartir contenido sobre tecnología aquí y en redes sociales.
+"""
+
+# Lists parameters
+paginationSize = 5
+listSummaries = true
+listDateFormat = '2006 Jan 2'
+
+# Social icons
+[[params.social]]
+name = "x"
+url = "https://twitter.com/ericjhernandezj"
+newTab = true
+
+[[params.social]]
+name = "threads"
+url = "https://threads.net/@ericjhernandezj"
+newTab = true
+
+[[params.social]]
+name = "linkedin"
+url = "https://linkedin.com/in/ericjhernandezj/"
+newTab = true
+
+[[params.social]]
+name = "github"
+url = "https://github.com/ericjhernandezj"
+newTab = true
+
+
+[[params.social]]
+name = "telegram"
+url = "https://t.me/ericjhernandezj"
+
+# Main menu pages
+[[params.menu]]
+name = "home"
+url = "/"
+
+[[params.menu]]
+name = "posts"
+url = "/posts"
+
+[[params.menu]]
+name = "faq"
+url = "/faq"
+
+[[params.menu]]
+name = "contact"
+url = "/contact"
+
+# Syntax highligth on code blocks
+[markup]
+[markup.highlight]
+style = 'algol'

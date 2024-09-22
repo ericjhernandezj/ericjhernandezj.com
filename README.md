@@ -1,2 +1,0 @@
-# ericjhernandezj.com
-My website
