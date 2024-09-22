@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Eric J. Hernandez J.</title>
-    <link>https://ericjhernandezj.com/posts/</link>
-    <description>Recent content in Posts on Eric J. Hernandez J.</description>
-    <generator>Hugo</generator>
-    <language>es-mx</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://ericjhernandezj.com/posts/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Eric J. Hernandez J.</title><link>https://ericjhernandezj.com/posts/</link><description>Recent content in Posts on Eric J. Hernandez J.</description><generator>Hugo</generator><language>es-mx</language><lastBuildDate>Sun, 22 Sep 2024 05:26:34 +0000</lastBuildDate><atom:link href="https://ericjhernandezj.com/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Test</title><link>https://ericjhernandezj.com/posts/test/</link><pubDate>Sun, 22 Sep 2024 05:26:34 +0000</pubDate><guid>https://ericjhernandezj.com/posts/test/</guid><description>Contenido</description></item></channel></rss>
