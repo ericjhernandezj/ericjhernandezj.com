@@ -1,6 +1,6 @@
 ---
 title: "Contacto"
-description: "Cómo contactarme"
+description: "Formas de contactar a Eric J. Hernandez J. (ericjhernandezj)"
 hideBackToTop: true
 hidePagination: true
 ---
