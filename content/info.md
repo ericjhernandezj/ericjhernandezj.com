@@ -5,6 +5,7 @@ author = 'Eric J. Hernandez J.'
 description = 'Más información sobre mí y el Blog'
 draft = false
 aliases = ['mas', 'informacion', 'blog', 'acerca-de']
+comments = false
 +++
 
 ...

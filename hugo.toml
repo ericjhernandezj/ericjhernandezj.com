@@ -83,4 +83,4 @@ series = "series"
     disableInlineCSS = true
 
   [services.disqus]
-    shortname = 'ericjhernandezj.disqus.com'
+    shortname = 'ericjhernandezj'
