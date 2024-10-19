@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on ericjhernandezj</title>
+    <link>https://vigilant-yodel-4pxxw96jx7fj9w6-1313.app.github.dev/post/</link>
+    <description>Recent content in Posts on ericjhernandezj</description>
+    <generator>Hugo</generator>
+    <language>es-mx</language>
+    <copyright>© 2024, Eric J. Hernandez J.</copyright>
+    <lastBuildDate>Sat, 19 Oct 2024 17:59:06 +0000</lastBuildDate>
+    <atom:link href="https://vigilant-yodel-4pxxw96jx7fj9w6-1313.app.github.dev/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hola, probando</title>
+      <link>https://vigilant-yodel-4pxxw96jx7fj9w6-1313.app.github.dev/post/hola/</link>
+      <pubDate>Sat, 19 Oct 2024 17:59:06 +0000</pubDate>
+      <guid>https://vigilant-yodel-4pxxw96jx7fj9w6-1313.app.github.dev/post/hola/</guid>
+      <description>&lt;h2 id=&#34;probando-este-tema-de-nuevo&#34;&gt;Probando este tema de nuevo&lt;/h2&gt;</description>
+    </item>
+  </channel>
+</rss>

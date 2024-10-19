@@ -1,0 +1,86 @@
+baseURL = "https://ericjhernandezj.com"
+
+title = "ericjhernandezj"
+author = "Eric J. Hernandez J."
+copyright = "© 2024, Eric J. Hernandez J."
+languageCode = "es-mx"
+DefaultContentLanguage = "es-mx"
+enableInlineShortcodes = true
+paginate = 5
+theme = "paper"
+# prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
+# See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
+ignoreErrors = ["error-remote-getjson"]
+
+
+
+[params]
+  color = 'gray'
+
+  avatar = 'ericjhernandezj@gmail.com'
+  name = 'Eric J. Hernandez J.'
+  bio = 'Escribiendo...'
+
+  twitter = 'ericjhernandezj'
+  github = 'ericjhernandezj'
+  linkedin = 'ericjhernandezj'
+  threads = '@ericjhernandezj'
+#  rss = true
+
+  disableHLJS = false
+  disablePostNavigation = false
+  monoDarkIcon = true
+  math = true
+  localKatex = false
+
+  direction = "ltr"
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    lineNos = true
+
+[menu]
+  [[menu.main]]
+    identifier = "info"
+    name = "Info"
+    url = "/info/"
+    weight = 10
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[privacy]
+
+  [privacy.vimeo]
+    disabled = false
+    simple = true
+
+  [privacy.twitter]
+    disabled = false
+    enableDNT = true
+    simple = true
+
+  [privacy.instagram]
+    disabled = false
+    simple = true
+
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
+
+[services]
+
+  [services.instagram]
+    disableInlineCSS = true
+
+  [services.twitter]
+    disableInlineCSS = true
+
+  [services.disqus]
+    shortname = 'ericjhernandezj.disqus.com'
