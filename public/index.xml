@@ -1,27 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>ericjhernandezj</title>
-    <link>https://vigilant-yodel-4pxxw96jx7fj9w6-1313.app.github.dev/</link>
-    <description>Recent content on ericjhernandezj</description>
-    <generator>Hugo</generator>
-    <language>es-mx</language>
-    <copyright>© 2024, Eric J. Hernandez J.</copyright>
-    <lastBuildDate>Sat, 19 Oct 2024 17:59:06 +0000</lastBuildDate>
-    <atom:link href="https://vigilant-yodel-4pxxw96jx7fj9w6-1313.app.github.dev/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hola, probando</title>
-      <link>https://vigilant-yodel-4pxxw96jx7fj9w6-1313.app.github.dev/post/hola/</link>
-      <pubDate>Sat, 19 Oct 2024 17:59:06 +0000</pubDate>
-      <guid>https://vigilant-yodel-4pxxw96jx7fj9w6-1313.app.github.dev/post/hola/</guid>
-      <description>&lt;h2 id=&#34;probando-este-tema-de-nuevo&#34;&gt;Probando este tema de nuevo&lt;/h2&gt;&#xA;&lt;p&gt;Mi nombre es Eric&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Más sobre mí</title>
-      <link>https://vigilant-yodel-4pxxw96jx7fj9w6-1313.app.github.dev/info/</link>
-      <pubDate>Sat, 19 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://vigilant-yodel-4pxxw96jx7fj9w6-1313.app.github.dev/info/</guid>
-      <description>&lt;h2 id=&#34;carrera-profesional&#34;&gt;Carrera Profesional&lt;/h2&gt;&#xA;&lt;p&gt;Soy estudiante de &lt;strong&gt;Ingeniería en Redes&lt;/strong&gt; en la &lt;em&gt;Universidad Autónoma del Estado de Quintana Roo&lt;/em&gt;, donde me especializo en el &lt;strong&gt;diseño, implementación y administración de redes&lt;/strong&gt; utilizando tecnologías de &lt;strong&gt;Cisco Systems&lt;/strong&gt;. A lo largo de mi formación también he adquirido conocimientos en &lt;strong&gt;ciberseguridad, programación y sistemas operativos&lt;/strong&gt;, lo que me ha permitido abordar diferentes proyectos y adaptarme a diferentes entornos.&lt;/p&gt;&#xA;&lt;p&gt;Paralelamente, me dedico al &lt;strong&gt;desarrollo backend&lt;/strong&gt;, con un enfoque en &lt;strong&gt;Java y Spring&lt;/strong&gt;, particularmente en arquitecturas de &lt;strong&gt;microservicios&lt;/strong&gt;. Poseo habilidades avanzadas en una variedad de herramientas y plataformas, tales como:&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ericjhernandezj</title><link>https://ericjhernandezj.com/</link><description>Recent content on ericjhernandezj</description><generator>Hugo</generator><language>es-mx</language><copyright>© 2024, Eric J. Hernandez J.</copyright><lastBuildDate>Sun, 20 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ericjhernandezj.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Sintaxis Basica de Java</title><link>https://ericjhernandezj.com/post/sintaxis-basica-java/</link><pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate><guid>https://ericjhernandezj.com/post/sintaxis-basica-java/</guid><description>&lt;p>Repaso de la sintaxis básica de este lenguaje de programación. Esto incluye cosas como reglas para nombrar componentes, modificadores de acceso, tipos de variables, etc., entre otras cosas básicas.&lt;/p>
+&lt;h2 id="lo-básico">Lo Básico&lt;/h2>
+&lt;ul>
+&lt;li>Java es &lt;strong>case sensitive&lt;/strong>, lo que significa que distingue entre mayúsculas y minúsculas.&lt;/li>
+&lt;li>Los nombres de las &lt;strong>clases&lt;/strong> siempre &lt;strong>inician con mayúscula&lt;/strong>.&lt;/li>
+&lt;li>Los nombres de los &lt;strong>métodos&lt;/strong> deben &lt;strong>iniciar con minúscula&lt;/strong>.&lt;/li>
+&lt;li>El nombre del archivo debe tener el &lt;strong>mismo nombre que la clase&lt;/strong> que contiene, y debe terminar con la extensión &lt;strong>.java&lt;/strong>. En caso de que no se tenga una clase pública en el archivo, éste se puede llamar de otra forma. Tampoco es obligatorio tener una clase pública en el archivo.&lt;/li>
+&lt;li>El programa siempre &lt;strong>inicia desde el método &lt;code>main()&lt;/code>&lt;/strong>, el cual es necesario para iniciar todo programa Java.&lt;/li>
+&lt;/ul>
+&lt;h2 id="identificadores">Identificadores&lt;/h2>
+&lt;p>Todos los componentes necesitan un nombre, a este nombre se le conoce como &lt;strong>identificador&lt;/strong>. Todas las clases, métodos, variables, etc. deben tener un identificador.&lt;/p></description></item><item><title>Hola, probando</title><link>https://ericjhernandezj.com/post/hola/</link><pubDate>Sat, 19 Oct 2024 00:00:00 +0000</pubDate><guid>https://ericjhernandezj.com/post/hola/</guid><description>&lt;h2 id="probando-este-tema-de-nuevo">Probando este tema de nuevo&lt;/h2>
+&lt;p>Mi nombre es Eric&lt;/p></description></item><item><title>Más sobre mí</title><link>https://ericjhernandezj.com/mas/</link><pubDate>Sat, 19 Oct 2024 00:00:00 +0000</pubDate><guid>https://ericjhernandezj.com/mas/</guid><description>&lt;h2 id="carrera-profesional">Carrera Profesional&lt;/h2>
+&lt;p>Soy estudiante de &lt;strong>Ingeniería en Redes&lt;/strong> en la &lt;em>Universidad Autónoma del Estado de Quintana Roo&lt;/em>, donde me especializo en el &lt;strong>diseño, implementación y administración de redes&lt;/strong> utilizando tecnologías de &lt;strong>Cisco Systems&lt;/strong>. A lo largo de mi formación también he adquirido conocimientos en &lt;strong>ciberseguridad, programación y sistemas operativos&lt;/strong>, lo que me ha permitido abordar diferentes proyectos y adaptarme a diferentes entornos.&lt;/p>
+&lt;p>Paralelamente, me dedico al &lt;strong>desarrollo backend&lt;/strong>, con un enfoque en &lt;strong>Java y Spring&lt;/strong>, particularmente en arquitecturas de &lt;strong>microservicios&lt;/strong>. Poseo habilidades avanzadas en una variedad de herramientas y plataformas, tales como:&lt;/p></description></item></channel></rss>

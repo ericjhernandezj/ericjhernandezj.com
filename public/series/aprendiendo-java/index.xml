@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Aprendiendo Java on ericjhernandezj</title><link>https://ericjhernandezj.com/series/aprendiendo-java/</link><description>Recent content in Aprendiendo Java on ericjhernandezj</description><generator>Hugo</generator><language>es-mx</language><copyright>© 2024, Eric J. Hernandez J.</copyright><lastBuildDate>Sun, 20 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ericjhernandezj.com/series/aprendiendo-java/index.xml" rel="self" type="application/rss+xml"/><item><title>Sintaxis Basica de Java</title><link>https://ericjhernandezj.com/post/sintaxis-basica-java/</link><pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate><guid>https://ericjhernandezj.com/post/sintaxis-basica-java/</guid><description>&lt;p>Repaso de la sintaxis básica de este lenguaje de programación. Esto incluye cosas como reglas para nombrar componentes, modificadores de acceso, tipos de variables, etc., entre otras cosas básicas.&lt;/p>
+&lt;h2 id="lo-básico">Lo Básico&lt;/h2>
+&lt;ul>
+&lt;li>Java es &lt;strong>case sensitive&lt;/strong>, lo que significa que distingue entre mayúsculas y minúsculas.&lt;/li>
+&lt;li>Los nombres de las &lt;strong>clases&lt;/strong> siempre &lt;strong>inician con mayúscula&lt;/strong>.&lt;/li>
+&lt;li>Los nombres de los &lt;strong>métodos&lt;/strong> deben &lt;strong>iniciar con minúscula&lt;/strong>.&lt;/li>
+&lt;li>El nombre del archivo debe tener el &lt;strong>mismo nombre que la clase&lt;/strong> que contiene, y debe terminar con la extensión &lt;strong>.java&lt;/strong>. En caso de que no se tenga una clase pública en el archivo, éste se puede llamar de otra forma. Tampoco es obligatorio tener una clase pública en el archivo.&lt;/li>
+&lt;li>El programa siempre &lt;strong>inicia desde el método &lt;code>main()&lt;/code>&lt;/strong>, el cual es necesario para iniciar todo programa Java.&lt;/li>
+&lt;/ul>
+&lt;h2 id="identificadores">Identificadores&lt;/h2>
+&lt;p>Todos los componentes necesitan un nombre, a este nombre se le conoce como &lt;strong>identificador&lt;/strong>. Todas las clases, métodos, variables, etc. deben tener un identificador.&lt;/p></description></item></channel></rss>
