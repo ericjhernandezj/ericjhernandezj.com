@@ -25,7 +25,7 @@ ignoreErrors = ["error-remote-getjson"]
   github = 'ericjhernandezj'
   linkedin = 'ericjhernandezj'
   threads = '@ericjhernandezj'
-#  rss = true
+  rss = true
 
   disableHLJS = false
   disablePostNavigation = false
@@ -45,9 +45,9 @@ ignoreErrors = ["error-remote-getjson"]
 
 [menu]
   [[menu.main]]
-    identifier = "info"
-    name = "Info"
-    url = "/info/"
+    identifier = "mas"
+    name = "Más"
+    url = "/mas/"
     weight = 10
 
 [taxonomies]

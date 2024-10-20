@@ -1,7 +1,7 @@
 +++
 title = 'Hola, probando'
 author = 'Eric J. Hernandez J.'
-date = 2024-10-19T17:59:06Z
+date = '2024-10-19'
 description = 'Post de prueba'
 draft = false
 tags = ['Test']
