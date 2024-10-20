@@ -15,72 +15,74 @@ ignoreErrors = ["error-remote-getjson"]
 
 
 [params]
-  color = 'gray'
+    color = 'gray'
 
-  avatar = 'ericjhernandezj@gmail.com'
-  name = 'Eric J. Hernandez J.'
-  bio = 'Escribiendo...'
+    avatar = 'ericjhernandezj@gmail.com'
+    name = 'Eric J. Hernandez J.'
+    bio = 'Escribiendo...'
 
-  twitter = 'ericjhernandezj'
-  github = 'ericjhernandezj'
-  linkedin = 'ericjhernandezj'
-  threads = '@ericjhernandezj'
-  rss = true
+    twitter = 'ericjhernandezj'
+    github = 'ericjhernandezj'
+    linkedin = 'ericjhernandezj'
+    threads = '@ericjhernandezj'
+    rss = true
 
-  disableHLJS = false
-  disablePostNavigation = false
-  monoDarkIcon = true
-  math = true
-  localKatex = false
+    disableHLJS = false
+    disablePostNavigation = false
+    monoDarkIcon = true
+    math = true
+    localKatex = false
 
-  direction = "ltr"
+    direction = "ltr"
 
 
 [markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-  [markup.highlight]
-    lineNos = true
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
+    [markup.highlight]
+        lineNos = true
+
 
 [menu]
-  [[menu.main]]
-    identifier = "mas"
-    name = "Más"
-    url = "/mas/"
-    weight = 10
+    [[menu.main]]
+        identifier = "mas"
+        name = "Más"
+        url = "/mas/"
+        weight = 10
+
 
 [taxonomies]
-category = "categories"
-tag = "tags"
-series = "series"
+    category = "categories"
+    tag = "tags"
+    series = "series"
+
 
 [privacy]
+    [privacy.vimeo]
+        disabled = false
+        simple = true
 
-  [privacy.vimeo]
-    disabled = false
-    simple = true
+    [privacy.twitter]
+        disabled = false
+        enableDNT = true
+        simple = true
 
-  [privacy.twitter]
-    disabled = false
-    enableDNT = true
-    simple = true
+    [privacy.instagram]
+        disabled = false
+        simple = true
 
-  [privacy.instagram]
-    disabled = false
-    simple = true
+    [privacy.youtube]
+        disabled = false
+        privacyEnhanced = true
 
-  [privacy.youtube]
-    disabled = false
-    privacyEnhanced = true
 
 [services]
+    [services.instagram]
+        disableInlineCSS = true
 
-  [services.instagram]
-    disableInlineCSS = true
+    [services.twitter]
+        disableInlineCSS = true
 
-  [services.twitter]
-    disableInlineCSS = true
-
-  [services.disqus]
-    shortname = 'ericjhernandezj'
+    [services.disqus]
+        shortname = 'ericjhernandezj'
