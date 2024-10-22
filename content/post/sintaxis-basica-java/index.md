@@ -1,5 +1,5 @@
 +++
-title = 'Sintaxis Basica de Java'
+title = 'Sintaxis Básica de Java'
 date = '2024-10-20'
 author = 'Eric J. Hernandez J.'
 description = 'Sintaxis básica del lenguaje de programación Java'
