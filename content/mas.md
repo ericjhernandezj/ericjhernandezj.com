@@ -28,4 +28,4 @@ Para conversaciones profesionales: [hello@ericjhernandezj.com](mailto:hello@eric
 
 Para conversaciones casuales: [Telegram Personal](https://t.me/EricHernandezzz)
 
-Igualmente subo contenido principalmente en [Twitter/X](https://x.com/ericjhernandezj), [Threads](https://threads.net/@ericjhernandezj), [BlueSky](https://bsky.app/profile/ericjhernandezj.bsky.social), [LinkedIn](https://linkedin.com/in/ericjhernandezj), [Canal de Telegram](https://t.me/ericjhernandezj)
+Igualmente subo contenido principalmente en [Twitter/X](https://x.com/ericjhernandezj), [Threads](https://threads.net/@ericjhernandezj), [Bluesky](https://bsky.app/profile/ericjhernandezj.bsky.social), [LinkedIn](https://linkedin.com/in/ericjhernandezj) y mi [Canal de Telegram](https://t.me/ericjhernandezj)

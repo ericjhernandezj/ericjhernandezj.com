@@ -21,10 +21,8 @@ ignoreErrors = ["error-remote-getjson"]
     name = 'Eric J. Hernandez J.'
     bio = 'Escribiendo...'
 
-    twitter = 'ericjhernandezj'
     github = 'ericjhernandezj'
     linkedin = 'ericjhernandezj'
-    threads = '@ericjhernandezj'
     rss = true
 
     disableHLJS = false
