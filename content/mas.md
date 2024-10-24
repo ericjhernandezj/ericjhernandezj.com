@@ -3,7 +3,7 @@ title = 'Más sobre mí'
 date = '2024-10-19'
 author = 'Eric J. Hernandez J.'
 description = 'Más información sobre mí y el Blog'
-aliases = ['info', 'informacion', 'blog', 'acerca-de']
+aliases = ['info', 'informacion', 'blog', 'acerca-de', 'sobre-mi']
 comments = false
 +++
 
